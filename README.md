@@ -32,7 +32,7 @@ Follow these steps to set up and run the project on your local machine:
 /
 Festival-Sales-Report-Python.git
 2. Navigate to the project directory:
-   cd diwali-sales-analysis
+   cd Festival-Sales-Report-Python
 3. Install the required dependencies:
    pip install -r requirements.txt
 4. Run the Jupyter Notebook:
