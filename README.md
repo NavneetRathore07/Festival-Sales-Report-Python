@@ -37,6 +37,7 @@ Festival-Sales-Report-Python.git
    pip install -r requirements.txt
 4. Run the Jupyter Notebook:
    jupyter notebook 'Diwali Sales Project.ipynb'
+   
 Project Structure
 Outline of the main folders and files in the project:
 
@@ -63,5 +64,7 @@ Sales Performance: Evaluated the performance of different product categories and
 Key insights include:
 
 High-value customers predominantly belong to specific age groups and professions, which can guide targeted marketing efforts.
+
 Certain product categories perform significantly better during Diwali sales, highlighting areas for inventory focus.
+
 Regional trends and patterns in sales that can help tailor marketing strategies to different zones.
