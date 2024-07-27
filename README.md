@@ -38,18 +38,6 @@ Festival-Sales-Report-Python.git
 4. Run the Jupyter Notebook:
    jupyter notebook 'Diwali Sales Project.ipynb'
    
-Project Structure
-Outline of the main folders and files in the project:
-
-plaintext
-Copy code
-├── data
-│   └── Diwali Sales Data.csv
-├── notebooks
-│   └── Diwali Sales Project.ipynb
-├── README.md
-└── requirements.txt
-
 Analysis and Insights
 
 The analysis focused on various aspects of the sales data:
